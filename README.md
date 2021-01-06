@@ -1,5 +1,23 @@
 ### Namaste 🙏
 
+My name is Saroj k Poddar. I do programming and designing.
+
+I started my career in 2010. Since then, I have spent most of the time building applications,
+designing products, and keeping myself up-to-date with the latest technologies.
+
+Expertise in:
+-
+
+- [x] HTML5/CSS3
+- [x] JavaScript
+- [X] ReactJs
+- [X] SailsJs
+- [X] NPM / YARN
+- [X] Gulp / Webpack
+- [x] GIT
+- [X] Wordpress / Drupal
+- [X] Wireframe & UX Prototype
+- [X] Photoshop / Figma / Axure
 
 
 
