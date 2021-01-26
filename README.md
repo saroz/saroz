@@ -17,7 +17,7 @@ Expertise in:
 - [x] GIT
 - [X] Wordpress / Drupal
 - [X] Wireframe & UX Prototype
-- [X] Photoshop / Figma / Axure
+- [X] Adobe XD / Figma / Axure
 
 
 
