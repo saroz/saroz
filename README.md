@@ -9,7 +9,7 @@ Expertise in:
 -
 
 - [x] HTML5/CSS3
-- [x] JavaScript
+- [x] JavaScript / TypeScript / ES6
 - [X] ReactJs
 - [X] SailsJs
 - [X] NPM / YARN
