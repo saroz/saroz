@@ -14,10 +14,10 @@ Expertise in:
 - [X] Express, Sails.js, Fastify (*)
 - [X] NPM / YARN
 - [X] Gulp / Webpack
-- [x] GIT
-- [X] Wordpress / Drupal
-- [X] Wireframe & UX Prototype
-- [X] Adobe XD / Figma / Axure
+- [x] Git
+- [X] WordPress / Drupal
+- [X] Wireframe & UX Prototyping
+- [X] Adobe XD / Figma / Photoshop
 
 
 
