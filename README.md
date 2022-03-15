@@ -10,8 +10,8 @@ Expertise in:
 
 - [x] HTML5/CSS3
 - [x] JavaScript / TypeScript / ES6
-- [X] ReactJs
-- [X] SailsJs
+- [X] React.js
+- [X] Express, Sails.js, Fastify (*)
 - [X] NPM / YARN
 - [X] Gulp / Webpack
 - [x] GIT
